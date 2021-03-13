@@ -1,0 +1,8 @@
+RESTful API will follow this endpoints:-
+
+- GET / - Returns a "Hello world!" message.
+- GET /posts - Get a list of posts.
+- POST /posts - Create a post.
+- GET /posts/{id} - Get a single post.
+- PUT /posts/{id} - Update a single post.
+- DELELTE /posts/{id} - Delete a single post.
